@@ -1,0 +1,24 @@
+Имя класса: User.
+полное имя класса: task3_SerializationAndRefluxing.User.
+Пространство имен: task3_SerializationAndRefluxing.
+Базовый класс: task3_SerializationAndRefluxing.Person.
+Абстрактный класс: False.
+Перечислинение: False.
+Интерфейс: False.
+Примитив: False.
+Запечатаный класс: False.
+Публичный класс: False.
+Значимый тип: False.
+
+Поля класса:
+email - Приватный: False
+is_activ - Приватный: False
+is_superuser - Приватный: False
+is_admin - Приватный: False
+name - Приватный: False
+surname - Приватный: False
+gender - Приватный: False
+
+Свойства класса:
+BirthDate - Запись: True. Чтение: True
+Age - Запись: False. Чтение: True
